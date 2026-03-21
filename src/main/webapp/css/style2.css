@@ -1,0 +1,15 @@
+.div-color{
+    background-image: linear-gradient(
+      to right top,
+      #f0b13c, #f0bc3c, #f0c73e, #eed241,
+      #ecdd45, #eae244, #e8e644, #e6eb44,
+      #e5ea3b, #e4ea32, #e2e926, #e1e816
+    );
+
+    min-height: calc(100vh - 70px); /* navbar height */
+}
+
+body{
+	margin:0;
+	padding:0;
+}
